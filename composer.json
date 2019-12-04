@@ -14,5 +14,8 @@
     "issues": "https://github.com/c0ke/drupal-oracle/issues",
     "source": "https://github.com/c0ke/drupal-oracle"
   },
-  "license": "GPL-2.0+"
+  "license": "GPL-2.0+",
+  "require": {
+    "composer/installers": "~1.0"
+  }
 }
