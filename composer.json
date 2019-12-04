@@ -1,18 +1,18 @@
 {
-  "name": "drupal/oracle",
+  "name": "c0ke/drupal-oracle",
   "description": "Database driver that allows Drupal to use Oracle as main database engine.",
   "type": "drupal-database-driver",
-  "homepage": "https://drupal.org/project/oracle",
+  "homepage": "https://github.com/c0ke/drupal-oracle",
   "authors": [
     {
-      "name": "Bohdan Artemchuk",
-      "homepage": "https://www.drupal.org/u/bohart",
+      "name": "Jakkapong Yuangtong",
+      "homepage": "https://www.cokr.info",
       "role": "Maintainer"
     }
   ],
   "support": {
-    "issues": "https://www.drupal.org/project/issues/oracle",
-    "source": "http://cgit.drupalcode.org/oracle"
+    "issues": "https://github.com/c0ke/drupal-oracle/issues",
+    "source": "https://github.com/c0ke/drupal-oracle"
   },
   "license": "GPL-2.0+",
   "require": { }
