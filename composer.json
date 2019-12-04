@@ -2,9 +2,6 @@
   "name": "c0ke/drupal-oracle",
   "description": "Database driver that allows Drupal to use Oracle as main database engine.",
   "type": "drupal-database-driver",
-  "extra": {
-    "installer-name": "drupal/oracle"
-  },
   "homepage": "https://github.com/c0ke/drupal-oracle",
   "authors": [
     {
